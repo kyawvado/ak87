@@ -1644,7 +1644,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/yy/ytv-mm.png", YTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png", Fortune TV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qETrBg1e5_uJILLFwweaOcN0/ts
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png", MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png", MITV
@@ -1655,3 +1655,22 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png", Myanmar Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-sports-5-mm.png", Sky Net Sports 5
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU9kQlugOYMnSe9LaSdPcjQU/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-sports-6-mm.png", Sky Net Sports 6
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUyLNnfE05hxHdw962aSw5LM/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-action-myanmar-fr-mm.png", C+ Action
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEYgCQSQWgP-yTZ492xSHeIc/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-zatlenn-myanmar-fr-mm.png", C+ Zat Lenn
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEfnarMt0uFcgX6zeVAWjzhw/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png", World Movies (M-Sub)
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEaz9SQMzOuUqnUJ3Q5uiN-M/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png", Rock Action (M-Sub)
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEcorrSQaT6MTBlk_XreD5Y4/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png", Zee Cinema (M-Sub)
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEV06XKTpvNnMb7VDsu25UPQ/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png", Thukhuma 1
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEamlmCWe81RpYiV0Ma3VVis/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png", Thukhuma 2
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEUhbNcwTm9UGdO_bohEtQMg/ts
+
