@@ -883,14 +883,6 @@ https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 4 (kus)
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png", beIN Sports France 1 (carmel)
 http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png", beIN Sports France 2 (carmel)
@@ -1010,16 +1002,6 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 
 
-#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier 1 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
-#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier 2 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
-#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier 3 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
-#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png", True Premier 4 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
-#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png", True Premier 5 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
 #EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier 1 (doo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8?|Referer=https://www.youdooball.com/
@@ -1035,6 +1017,39 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8?|Ref
 #EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png", True Premier 5 (doo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8?|Referer=https://www.youdooball.com/
+#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier 1 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
+#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier 2 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
+#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier 3 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png", True Premier 4 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
+#EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png", True Premier 5 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+
+
+
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (gm)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
 
 
@@ -1554,6 +1569,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_(2022).svg/800px-History2_logo_(2022).svg.png", History 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg", BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1584,6 +1602,14 @@ http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png", Net Geo Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png", Animal Planet
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png", Action Movie
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png", Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film_and_arts_lam.png", Film & Arts
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU", Movies Sphere UK
@@ -1611,8 +1637,10 @@ https://ppradio.b-cdn.net/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png", Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9VrbQDxmEc6eOs4SoFD8BfDqRWEHSiSIxA&usqp=CAU", Channel Me
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPRDyMv4aiUl7pvgUNFAzws/ts
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-entertainment-mm.png", Channel ME
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png", 5plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/yy/ytv-mm.png", YTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png", Fortune TV
@@ -1627,16 +1655,3 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png", Myanmar Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png", C sport 1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png", C sport 2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png", S sport
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png", Zee Cinema (M-Sub)
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png", Rock Action (M-Sub)
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel (M-sub)
-http://ctrl.laotv.la/live/Discovery/index.m3u8
-
