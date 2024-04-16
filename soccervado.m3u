@@ -883,12 +883,12 @@ https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 4 (kus)
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png", beIN Sports France 1 (carmel)
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png", beIN Sports France 2 (carmel)
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png", beIN Sports France 3 (carmel)
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/2560px-Logo_RMC_Sport_2018.svg.png", RMC Sport 1 (amaz)
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2545/index.m3u8
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/2560px-Logo_RMC_Sport_2018.svg.png", RMC Sport 2 (amaz)
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2546/index.m3u8
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/2560px-Logo_RMC_Sport_2018.svg.png", RMC Sport 3 (amaz)
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2547/index.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 1 France (89)
 http://89.187.179.242:1626/canal+sport
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 2 France (89)
@@ -917,16 +917,6 @@ http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/147299
 http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/147300
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png", Prima Sport 4 (013)
 http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/297626
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", Ziggo Sport Select (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53701
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", Ziggo Sport Voetbal (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53704
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", Ziggo Sport Docu (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53707
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", Ziggo Sport Extra 1 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53710
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", Ziggo Sport Extra 2 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53712
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium1.png", Arena 1 Premium (94)
 http://94.250.2.6:10600/play/gtIDEfibBy
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium2.png", Arena 2 Premium (94)
@@ -959,10 +949,6 @@ https://edge2.laotv.la/live/PPTVHD/index.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png", CCTV5+ Sport (node)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png", Soccer Channel (sid)
-https://s.id/soccer_channel_shareext-ts
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png", Soccer Channel 2 (sid)
-https://s.id/soccer-xtra_shareext-ts
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (41)
 http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (41)
