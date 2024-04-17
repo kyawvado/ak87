@@ -992,6 +992,50 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 
 
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU", SSC SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/ssc1.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU", SSC SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/ssc2.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU", SSC SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/ssc3.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU", SSC SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/ssc4.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU", SSC SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/ssc5.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU", SSC SPORT EXTRA 1
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/sscextra1.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU", SSC SPORT EXTRA 2
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/sscextra2.m3u8
+
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://i.ibb.co/YpQ86Qk/kass1.png", Alkass One
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium781/index.m3u8
+
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://i.ibb.co/m9WKtjB/kass2.png", Alkass Two
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium782/index.m3u8
+
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://i.ibb.co/tw6nR1k/kass3.png", Alkass Three
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium783/index.m3u8
+
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://i.ibb.co/b2TpfKx/kass4.png", Alkass Four
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium784/index.m3u8
+
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png", Alkass Sport 1
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/alkass1.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png", Alkass Sport 2
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/alkass2.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png", Alkass Sport 3
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/alkass3.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png", Alkass Sport 4
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/alkass4.m3u8
+#EXTINF:-1 group-title="Sport Arab" tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png", Alkass Sport 5
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/alkass5.m3u8
+
+
+
 #EXTINF:-1 group-title="True Premier Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier 1 (doo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8?|Referer=https://www.youdooball.com/
