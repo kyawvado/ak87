@@ -1261,14 +1261,6 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
 
 
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star+_logo.svg/2560px-Star+_logo.svg.png", Star+ Live 1
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star+_logo.svg/2560px-Star+_logo.svg.png", Star+ Live 2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/39
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount+_logo.png/1024px-Paramount+_logo.png", Pramount+ Live 1
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount+_logo.png/1024px-Paramount+_logo.png", Pramount+ Live 2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
 #EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 1
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
@@ -1329,6 +1321,114 @@ https://reels2watch.com/hls/s10.m3u8?|Referer=https://techclips.net/
 https://reels2watch.com/hls/s11.m3u8?|Referer=https://techclips.net/
 #EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-streaming-icon-football-clipart-png-image_6413829.png", Live Match (reels) 12
 https://reels2watch.com/hls/s12.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 9
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 10
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 11
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl11.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 12
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl12.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 9
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 10
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 11
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl11.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 12
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl12.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 13
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl13.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 14
+https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBcpCIsAPRLKqLr55_C0RCXCMzsU0R0PUsg&usqp=CAU", EPL Live 15
+https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 9
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 10
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star+_logo.svg/2560px-Star+_logo.svg.png", Star+ Live 1
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star+_logo.svg/2560px-Star+_logo.svg.png", Star+ Live 2
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/39
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount+_logo.png/1024px-Paramount+_logo.png", Pramount+ Live 1
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount+_logo.png/1024px-Paramount+_logo.png", Pramount+ Live 2
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
 
 #EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
