@@ -530,18 +530,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg", Astro SpoTV 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg", Astro SpoTV 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 
 
 #EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", Dazn 1 España (EPL)
@@ -1246,18 +1234,720 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (gm)
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png", Astro Supersport 1 (daddy)
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (daddy)
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png", Astro Supersport 2 (daddy)
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (daddy)
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png", Astro Supersport 3 (daddy)
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (daddy)
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png", Astro Supersport 4 (daddy)
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (daddy)
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports English 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium61/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports English 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium90/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports English 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium46/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA 4
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA 5
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA 6
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA 7
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA Premium 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA Premium 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN Sports MENA Premium 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium100/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS 1 France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS 2 France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS 3 France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS 1 Turkey
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium62/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS 2 Turkey
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium63/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS 3 Turkey
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium64/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium425/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS Espanol
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium372/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS Australia 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium491/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS Australia 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium492/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", beIN SPORTS Australia 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium493/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", BBC One UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium356/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", BBC Two UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium357/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", BBC Three UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium358/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", BBC Four UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium359/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", CBS Sports Network (CBSSN)
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium308/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Channel 4 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium354/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Channel 5 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium355/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium121/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Sport France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium122/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Foot France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium463/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Sport360
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium464/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Sport 1 Poland
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium48/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Sport 2 Poland
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium73/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Sport 1 Afrique
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Sport 2 Afrique
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Canal+ Sport 3 Afrique
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", C More Football Sweden
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium747/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Cosmote Sport 1 HD
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium622/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Cosmote Sport 2 HD
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium623/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Cosmote Sport 3 HD
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium624/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Cosmote Sport 4 HD
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium625/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Cosmote Sport 5 HD
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium626/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN 1 Bar DE
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN 2 Bar DE
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN 1 Spain
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN 2 Spain
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium446/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN 3 Spain
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN 4 Spain
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN LaLiga 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium538/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", DAZN LaLiga 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Digi Sport 1 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Digi Sport 2 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Digi Sport 3 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Digi Sport 4 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Diema Sport 1 Bulgaria
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium465/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Diema Sport 2 Bulgaria
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium466/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Diema Sport 3 Bulgaria
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium467/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ESPN 1 USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ESPN2 USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ESPN 1 Netherlands
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium379/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ESPN 2 Netherlands
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Eleven Sports 1 Poland
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium71/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Eleven Sports 2 Poland
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium72/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Eleven Sports 3 Poland
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium428/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ITV 1 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium350/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ITV 2 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium351/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ITV 3 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium352/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", ITV 4 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium353/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Movistar Laliga
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Movistar Liga de Campeones
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Movistar Deportes 1 Spain
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Movistar Deportes 2 Spain
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Movistar Deportes 3 Spain
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium526/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Max Sport 1 Croatia
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium779/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Max Sport 2 Croatia
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium780/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Max Sport 1 Bulgaria
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium472/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Max Sport 2 Bulgaria
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium473/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Max Sport 3 Bulgaria
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium474/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Max Sport 4 Bulgaria
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium475/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Nova Sports 1 Greece
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium631/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Nova Sports 2 Greece
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium632/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Nova Sports 3 Greece
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium633/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Nova Sports 4 Greece
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium634/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Nova Sports 5 Greece
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium635/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Nova Sports 6 Greece
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium636/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Nova Sports Premier League Greece
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium599/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Orange Sport 1 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium439/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Orange Sport 2 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium440/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Orange Sport 3 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium441/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Orange Sport 4 Romania
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium442/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Prima Sport 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium583/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Prima Sport 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium584/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Prima Sport 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium585/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Prima Sport 4
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium586/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", RMC Sport 1 France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium119/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", RMC Sport 2 France
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", RTP 1 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium719/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", RTP 2 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium720/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", RTP 3 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium721/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Football UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Arena UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Action UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Main Event UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Premier League UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports F1 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Cricket UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Golf UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium70/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports News UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium366/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports MIX UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium449/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sports Racing UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sport 1 NZ
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sport 2 NZ
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sport 3 NZ
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sport 4 NZ
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sport 5 NZ
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium592/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sky Sport Select NZ
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium587/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport TV 1 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport TV 2 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport TV 3 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium454/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport TV 4 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport TV5 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium290/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport TV6 Portugal
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium291/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SporTV 1 Brasil
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium78/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SporTV 2 Brasil
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium79/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SporTV 3 Brasil
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium80/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport Klub 1 Serbia
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium101/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport Klub 2 Serbia
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium102/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport Klub 3 Serbia
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium103/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport Klub 4 Serbia
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium104/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport Klub HD Serbia
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium453/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Grandstand
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport PSL
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Premier league
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport LaLiga
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Variety 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Variety 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Variety 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Variety 4
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Action
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Rugby
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium421/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Golf
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Tennis
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium423/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Motorsport
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Supersport Football
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport Cricket
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SuperSport MaXimo 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium614/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium615/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium616/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport 4
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium617/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport 5
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium618/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport Extra 1
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium619/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport Extra 2
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium620/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", SSC Sport Extra 3
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium621/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport 1 Israel
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium140/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport 2 Israel
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium141/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport 3 Israel
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium142/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport 4 Israel
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium143/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Sport 5 Israel
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium144/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", TUDN USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium66/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Telemundo USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium131/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", USA Network
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Univision
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium132/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Unimas
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium133/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Viaplay Sports 1 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Viaplay Sports 2 UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Viaplay Xtra UK
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium597/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Ziggo Sport Docu NL
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium383/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Ziggo Sport Select NL
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium393/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Ziggo Sport Racing NL
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8
+
+#EXTINF:-1 group-title="Web Link Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWhImJ9NzmqOkVIquLisXDmJYSmVrV0flrDzMUFGn9FdJ3ohbcbehfgh-&s=10", Ziggo Sport Voetbal NL
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium398/index.m3u8
 
 
 
@@ -1631,6 +2321,47 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png", Aljazeera Live
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_big1.png?v=2.0.0.13", Aljazeera News
+https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_big.png", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_big.png?v=2.0.0.13", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png", CNN International (pl)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.seekpng.com/png/detail/51-517961_cnn-logo-with-earth-png-cnn-international.png", CNN International (f9)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/nzHWWSxL/CityNews.png", City News
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/g0y5NFf5/City-News-Toronto.png", City News Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_big.png?v=2.0.0.13", DW News
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="NEWS✨"tvg-logo=" https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png", FOX News Now
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://i.postimg.cc/dtNTxrg8/GB-NEWS.png", GB News
+https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
+#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/cCDq3y0h/Global-News.png", Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/zDsZ9ZdR/One-America-News.png", One America News
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://i.postimg.cc/SQL2LrT4/PRESS-TV.png", Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png", TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png", VOA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/jq3sJ0tQ/KBS-World.png", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://i.postimg.cc/4xmDyXwQ/SBS.png", SBS
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png", Aljazeera English
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1708,47 +2439,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
-
-#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png", Aljazeera Live
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_big1.png?v=2.0.0.13", Aljazeera News
-https://live-hls-web-aje.getaj.net/AJE/master.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_big.png", ABC Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_big.png?v=2.0.0.13", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png", CNN International (pl)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.seekpng.com/png/detail/51-517961_cnn-logo-with-earth-png-cnn-international.png", CNN International (f9)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/nzHWWSxL/CityNews.png", City News
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/g0y5NFf5/City-News-Toronto.png", City News Toronto
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_big.png?v=2.0.0.13", DW News
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="NEWS✨"tvg-logo=" https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png", FOX News Now
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://i.postimg.cc/dtNTxrg8/GB-NEWS.png", GB News
-https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
-#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/cCDq3y0h/Global-News.png", Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/zDsZ9ZdR/One-America-News.png", One America News
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://i.postimg.cc/SQL2LrT4/PRESS-TV.png", Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png", TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png", VOA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
-#EXTINF:-1 group-title="NEWS✨"tvg-logo="https://i.postimg.cc/jq3sJ0tQ/KBS-World.png", KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="NEWS✨" tvg-logo="https://i.postimg.cc/4xmDyXwQ/SBS.png", SBS
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
