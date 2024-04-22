@@ -874,13 +874,13 @@ http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52240
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png", TNT Sports 3 (server)
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52239
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (gm)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (gm)
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (gm)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (gm)
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (gm)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (gm)
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (gm)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (gm)
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 1 (kus)
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
@@ -1437,9 +1437,9 @@ http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEcorrSQaT6MTBlk_XreD5Y4/ts
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png", Zee Cinema (M-Sub)
 http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEV06XKTpvNnMb7VDsu25UPQ/ts
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png", Thukhuma 1
-http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEamlmCWe81RpYiV0Ma3VVis/ts
+#http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEamlmCWe81RpYiV0Ma3VVis/ts
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png", Thukhuma 2
-http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEUhbNcwTm9UGdO_bohEtQMg/ts
+#http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEUhbNcwTm9UGdO_bohEtQMg/ts
 
 
 
