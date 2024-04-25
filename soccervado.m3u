@@ -1170,6 +1170,10 @@ https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png", True Premier 2 (edge)
 https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (port)
+https://port.denver1769.in/oplx.php?id=167578
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (port)
+https://port.denver1769.in/oplx.php?id=167579
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png", Setanta Sports Premier (Kazakhstan1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
