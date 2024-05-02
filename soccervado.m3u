@@ -885,36 +885,6 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&e
 
 
 
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png", ESPN 1 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cd890259fc683350f6f63409ea980e8:bbf1cb549696541148e85f513d737105
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNHD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png", ESPN 2 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46bb4145fdcdef2bd9c94786a44c73b3:85edb7f2113ec0f9bada174c196d8e2d
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN2HD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png", ESPN 3 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ea601d13527522a978e8a345d54561f:377e43ddf66521876d483cbe935d5611
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN3HD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/QkzBxW3/espn4.png", ESPN 4 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37e6a21b0a9f9ea5cad43adebd401751:2f4ea11704b96a00ffd21164289a8cd4
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNPLUS/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/4f70pMW/espn5.png", ESPN 5 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00435d5fd5c08ad2c363c586ee65e844:e0c911e62697db0880dd5c388aae6598
-https://clbpktstvdash-2.clarovideo.com/bpk-tv/FOXSPORTSHD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/NpXGMH7/espn6.png", ESPN 6 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55a44066cbf7e819be7607ff6307ef66:55541a8633efa9024c4bd9125534ea11
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS3HD/dash_fk/index.mpd
-
 #EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png", ESPN 1 (Columbia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rwdtYt_mSoKh8gWxbC9f9w","k":"jXHeSMr94CJGWvR_djmyQQ"},{"kty":"oct","kid":"gldi_vZnRN--8IUsRlGULA","k":"OoZM1ZUt5xFogJ0ctbFw4A"}]}
@@ -949,6 +919,36 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTTTV/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IqiiAReaSMGecLzO-1UuTA","k":"gdwZo50wB3QJo18fDY60gw"},{"kty":"oct","kid":"HyyT3Ym7T1W9Xa0EHF1rgw","k":"rRJ_kUsRm5Fik6UARSPFwg"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTDTV/dash/manifest.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png", ESPN 1 (Chile)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd890259fc683350f6f63409ea980e8:bbf1cb549696541148e85f513d737105
+https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNHD/dash_fk/index.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png", ESPN 2 (Chile)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46bb4145fdcdef2bd9c94786a44c73b3:85edb7f2113ec0f9bada174c196d8e2d
+https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN2HD/dash_fk/index.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png", ESPN 3 (Chile)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ea601d13527522a978e8a345d54561f:377e43ddf66521876d483cbe935d5611
+https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN3HD/dash_fk/index.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/QkzBxW3/espn4.png", ESPN 4 (Chile)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37e6a21b0a9f9ea5cad43adebd401751:2f4ea11704b96a00ffd21164289a8cd4
+https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNPLUS/dash_fk/index.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/4f70pMW/espn5.png", ESPN 5 (Chile)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00435d5fd5c08ad2c363c586ee65e844:e0c911e62697db0880dd5c388aae6598
+https://clbpktstvdash-2.clarovideo.com/bpk-tv/FOXSPORTSHD/dash_fk/index.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/NpXGMH7/espn6.png", ESPN 6 (Chile)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55a44066cbf7e819be7607ff6307ef66:55541a8633efa9024c4bd9125534ea11
+https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS3HD/dash_fk/index.mpd
 
 
 
@@ -1313,14 +1313,6 @@ https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 http://89.187.179.242:1626/canal+sport
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 2 France (89)
 http://89.187.179.242:12183/canal+sport2
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png", Canal+ Sport France (mol)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png", Canal+ Foot France (mol)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png", Canal+ France (mol)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png", Infosport+ France (mol)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png", Sony Ten Sport 1 (dai)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png", Sony Ten Sport 2 (dai)
@@ -1629,34 +1621,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS✨" tvg-logo="https://i.ibb.co/yWrbQgT/skygolf.png", Sky Sports Golf (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00059c656abb9f5e00e43ed7a1c3ffba:070f8e3649dfbae44e552a134099e40c
-https://linear008-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS✨" tvg-logo="https://i.ibb.co/ccnKcWn/skycricket.png", Sky Sports Cricket (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005cd7d2b9121a3c8586709d03f0e16:aa548c9e2a24dd9cfda694a89c4b8dce
-https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS✨" tvg-logo="https://i.ibb.co/yks4zN5/skyf1.png", Sky Sports F1 (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005c9fd8524e7b541a0a2a96837db67:9ab65cd67318c3ebe1649d26e8e2395d
-https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS✨" tvg-logo="https://i.ibb.co/ySnhfY4/skytennis.png", Sky Sports Tennis (UK)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003c6076ebc58846b205e9bae01bf9a:97a42ba20dd18bb2a11ecffad1d48177
-https://linear038-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS✨" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Tennis (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
