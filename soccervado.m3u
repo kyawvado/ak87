@@ -1781,6 +1781,41 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", Love Nature 4K 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png", DISCOVERY HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png", Discovery Asia 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/400px-BBC_Earth_2023.svg.png", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png", History
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png", Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png", HBO 2
