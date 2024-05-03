@@ -1816,6 +1816,54 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
 
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png", BBC EARTH 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89db0b85372a4c4d991e1dab0578f8ff:d9c57bcfbd5387f67903be06ecf3b8d9
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluebbcearthro/Manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png", HISTORIA 🇺🇸 🇪🇸 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
+https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/xMG3PG5/viasathistory.png", HISTORY (Viasat) 🇬🇧 🇷🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77ae1f0a892748298af0403d43b5c389:2e1dd7778fb78ce1d508efe948ca66fd
+https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasathistoryro/Manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png", NATGEO 🇺🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
+https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png", NATGEO 🇺🇸 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://cors-proxy.pulsesoftware.com/https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/SDSQw3v/skycrime.png", SKY CRIME 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00035075b9471324ef3ef367f4e2f3e2:9623d9591c52f58bf18c0177ec58dc0b
+https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycrime)/manifest_720.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/WVkyG6h/skydoc.png", SKY DOCUMENTARIES 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000982cf8912bd8ddf796408697814f1:89c358c16b2f7cff5f32f50cc6cc953b
+http://linear406-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skydocumentaries)/manifest_720.mpd
+
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/wc5rDz5/skynatur.png", SKY NATURE 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009c883ff32cd7c98dc3d0f877796ad:54c6344af4a6b4f9d7792eae169ab638
+https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skynature)/manifest_720.mpd
+
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png", HBO 2
@@ -1846,6 +1894,26 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU", Movies Sphere UK
 http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/8X0nzSF/sonybbcearth.png", SONY BBC EARTH 🇬🇧 🇮🇳
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 🇺🇸
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE 🇺🇸
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png", DISCOVERY TURBO 🇺🇸
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/r48XxcW/historyandwarfare.png", History & Warfare Now 🇬🇧
+https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/0GrGjbk/investdisco.png", INVESTIGATION DISCOVERY 🇬🇧
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/8bC9QZF/inwild.png", INWILD 🇬🇧
+https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/QnSvkmt/nasa.png", NASA 🇺🇸
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png", REAL WILD 🇬🇧
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/7yMVRQG/samsgwildlife.png", Samsung Wild Life 🇬🇧
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
 
 
 
