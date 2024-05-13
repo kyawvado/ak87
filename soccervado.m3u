@@ -995,6 +995,34 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&e
 
 
 
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png", ESPN 1 (Netherlands)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png", ESPN 2 (Netherlands)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png", ESPN 3 (Netherlands)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd
+
+#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/QkzBxW3/espn4.png", ESPN 4 (Netherlands)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd
+
 #EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png", ESPN 1 (Columbia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rwdtYt_mSoKh8gWxbC9f9w","k":"jXHeSMr94CJGWvR_djmyQQ"},{"kty":"oct","kid":"gldi_vZnRN--8IUsRlGULA","k":"OoZM1ZUt5xFogJ0ctbFw4A"}]}
@@ -1029,36 +1057,6 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTTTV/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IqiiAReaSMGecLzO-1UuTA","k":"gdwZo50wB3QJo18fDY60gw"},{"kty":"oct","kid":"HyyT3Ym7T1W9Xa0EHF1rgw","k":"rRJ_kUsRm5Fik6UARSPFwg"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTDTV/dash/manifest.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png", ESPN 1 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cd890259fc683350f6f63409ea980e8:bbf1cb549696541148e85f513d737105
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNHD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png", ESPN 2 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46bb4145fdcdef2bd9c94786a44c73b3:85edb7f2113ec0f9bada174c196d8e2d
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN2HD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png", ESPN 3 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ea601d13527522a978e8a345d54561f:377e43ddf66521876d483cbe935d5611
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN3HD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/QkzBxW3/espn4.png", ESPN 4 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37e6a21b0a9f9ea5cad43adebd401751:2f4ea11704b96a00ffd21164289a8cd4
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNPLUS/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/4f70pMW/espn5.png", ESPN 5 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00435d5fd5c08ad2c363c586ee65e844:e0c911e62697db0880dd5c388aae6598
-https://clbpktstvdash-2.clarovideo.com/bpk-tv/FOXSPORTSHD/dash_fk/index.mpd
-
-#EXTINF:-1 group-title="ESPN SPORTS⭐" tvg-logo="https://i.ibb.co/NpXGMH7/espn6.png", ESPN 6 (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55a44066cbf7e819be7607ff6307ef66:55541a8633efa9024c4bd9125534ea11
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS3HD/dash_fk/index.mpd
 
 
 
