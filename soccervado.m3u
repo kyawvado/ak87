@@ -1312,10 +1312,13 @@ https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png", Setanta Sports Premier (Kazakhstan1)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png", Setanta Sports 1 (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png", Setanta Sports Premier (Kazakhstan2)
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png", Setanta Sports 2 (Kazakhstan)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png", Setanta Sports Premier (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png", Setanta Sports 1 (Russia)
@@ -1324,12 +1327,6 @@ https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png", Setanta Sports 2 (Russia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png", Setanta Sports 1 (Kazakhstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png", Setanta Sports 2 (Kazakhstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1 (7pal) - Vpn
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 2 (7pal) - Vpn
@@ -1342,32 +1339,6 @@ https://7pal.short.gy/tntspts1
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png", TNT Sports 3 (7pal) - Vpn
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier 1 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier 2 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier 3 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png", True Premier 4 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png", True Premier 5 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (gm)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 1 (kus)
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 2 (kus)
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 3 (kus)
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 4 (kus)
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png", CCTV5 Sport (node)
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png", CCTV5+ Sport (node)
