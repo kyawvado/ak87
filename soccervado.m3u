@@ -38,6 +38,38 @@ https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea
 #KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
 https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-facebook1200_d5fe7a.jpg", Das Erste 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
+https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd
+
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png", ZDF 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
+https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
+
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://www.digitaltveurope.com/files/2024/02/Logo_La1UHD_alta.jpg", TV La 1 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", TV La 2 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
+https://cache3.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
+
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
+https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
+
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 🇪🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cef674613af4db5a0e6c64f38149878:65231111f4044f8a067ad0de10b59d49
+https://cdnlb.tvplayhome.lt/live/eds/ETV_HD_HVC/GO3_LIVE_DASH_AVC/ETV_HD_HVC.mpd
+
 #EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/MBycKrP/qazsport.png", QAZSPORT 🇰🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
@@ -149,21 +181,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 
 #EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png", CCTV5 Sport 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-facebook1200_d5fe7a.jpg", Das Erste
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
-https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd
-
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png", ZDF
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
-https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
-
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://www.digitaltveurope.com/files/2024/02/Logo_La1UHD_alta.jpg", TV La 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 
 
