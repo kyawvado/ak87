@@ -195,7 +195,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 #EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/VwkchB1/mcot.png", MCOT 30 🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
 
 #EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/FgCJ1F7/nbt2th.png", NBT 2 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -256,141 +256,69 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
 
 
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXpEyg5MofwcofsmJxJaJ1WPFuuwtbucPyRzPoIJ_NaSENdTmM92vr5w&s=10", ELEVEN SPORTS 1 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png", DAZN ELEVEN 1 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXpEyg5MofwcofsmJxJaJ1WPFuuwtbucPyRzPoIJ_NaSENdTmM92vr5w&s=10", ELEVEN SPORTS 2 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png", DAZN ELEVEN 2 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd  
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd  
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXpEyg5MofwcofsmJxJaJ1WPFuuwtbucPyRzPoIJ_NaSENdTmM92vr5w&s=10", ELEVEN SPORTS 3 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png", DAZN ELEVEN 3 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd  
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd  
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXpEyg5MofwcofsmJxJaJ1WPFuuwtbucPyRzPoIJ_NaSENdTmM92vr5w&s=10", ELEVEN SPORTS 4 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png", DAZN ELEVEN 4 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd  
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd  
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXpEyg5MofwcofsmJxJaJ1WPFuuwtbucPyRzPoIJ_NaSENdTmM92vr5w&s=10", ELEVEN SPORTS 5 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png", DAZN ELEVEN 5 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd 
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd 
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXpEyg5MofwcofsmJxJaJ1WPFuuwtbucPyRzPoIJ_NaSENdTmM92vr5w&s=10", ELEVEN SPORTS 6 🇵🇹
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png", DAZN ELEVEN 6 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd 
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd?p=web
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd 
 
 
 
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 1 (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 2 (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 3 (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
-
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png", Play Sports 1 (EPL)
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co.com/ryjz8NB/playsports1.png", PLAY SPORTS 1 🇧🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png", Play Sports 2 (EPL)
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co.com/MB271LX/playsports2.png", PLAY SPORTS 2 🇧🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png", Play Sports 3 (EPL)
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co.com/ZGwTw4Q/playsports3.png", PLAY SPORTS 3 🇧🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 
@@ -2111,8 +2039,12 @@ https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 https://ppradio.b-cdn.net/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png", Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png", Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png", MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png", MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png", MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png", MVM
