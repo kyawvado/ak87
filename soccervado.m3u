@@ -558,6 +558,77 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra1/xtra1.isml/index.mpd
 
 
 
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/mzDDZdc/dazn1.png", DAZN 1 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/NmHJWdT/dazn2.png", DAZN 2 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/mzDDZdc/dazn1.png", DAZN 1 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/NmHJWdT/dazn2.png", DAZN 2 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/jLx33bM/dazn3.png", DAZN 3 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/KF0chkh/dazn4.png", DAZN 4 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/QnR3JYY/daznlaliga.png", DAZN LaLiga 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/QnR3JYY/daznlaliga.png", DAZN LaLiga 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/cgqzCgb/zonadazn.png", DAZN ZONA  🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-024/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19ptz9oy5cnz1145uk6phxtywh_image-header_pRow_1691093619000", DAZN Women's Football
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000", DAZN Combat
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+
+
 #EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 1 - Vpn Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
@@ -850,21 +921,45 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co/YpQ86Qk/kass1.png", AL KASS 1 (Qatar)
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png", AL KASS 1 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
 
-#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co/m9WKtjB/kass2.png", AL KASS 2 (Qatar)
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/m9WKtjB/kass2.png", AL KASS 2 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
 
-#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co/tw6nR1k/kass3.png", AL KASS 3 (Qatar)
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/tw6nR1k/kass3.png", AL KASS 3 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
 
-#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co/b2TpfKx/kass4.png", AL KASS 4 (Qatar)
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/b2TpfKx/kass4.png", AL KASS 4 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
+
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/k57XRqD/kass5.png", AL KASS 5 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
+
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/qdbZgVN/kass6.png", AL KASS 6 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
+
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png", ABU DHABI SPORTS 1 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
+
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png", ABU DHABI SPORTS 1 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png", ABU DHABI SPORTS 2 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
+
+#EXTINF:-1 group-title="ARAB SPORTS⭐" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png", ABU DHABI SPORTS 2 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
 
 
 
@@ -891,6 +986,14 @@ https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
 https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd
+
+#EXTINF:-1 group-title="BBC & ITV⭐" tvg-logo="https://i.ibb.co.com/3phgHFg/bbc4.png", BBC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
 
 #EXTINF:-1 group-title="BBC & ITV⭐" tvg-logo="https://i.ibb.co/vBtRzFV/itv1.png", ITV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1171,104 +1274,6 @@ https://linear033-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 
 
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", Dazn 1 España (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web 
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png", Dazn 2 España (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-038/stream.mpd?p=web 
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png", Dazn 3 España
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png", Dazn 4 España
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png", Dazn 1 Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-017/stream.mpd?p=web 
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png", Dazn 2 Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0  
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-018/stream.mpd?p=web 
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU", Dazn LaLiga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909285445140_image-header_pIt_1661948686000&quality=70", Dazn Zona
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-024/stream.mpd?p=web
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg", Dazn 1 España (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg", Dazn 2 España (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg", Dazn 1 Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg", Dazn 2 Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU", Dazn LaLiga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19ptz9oy5cnz1145uk6phxtywh_image-header_pRow_1691093619000", Dazn Women's Football
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000", Dazn Combat
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co/cC5fH2g/daznxelevenproleague1.png", Dazn Eleven Pro League 1 (Belgium)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-049/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co/SJWpngL/daznxelevenproleague2.png", Dazn Eleven Pro League 2 (Belgium)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co/GpMD7tJ/daznxelevenproleague3.png", Dazn Eleven Pro League 3 (Belgium)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
-
-
-
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png", Setanta Sports 1 (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
@@ -1302,13 +1307,13 @@ http://41.205.93.154/BBCTWO/index.m3u8
 http://41.205.93.154/BBCTHREE/index.m3u8
 #EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png", FIFA Plus 1 (sam)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png", FIFA Plus 1 (sam)
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png", FIFA Plus 2 (sam)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png", FIFA Plus 2 (sam)
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png", FIFA Plus 3 (sam)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png", FIFA Plus 3 (sam)
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png", FIFA Plus 4 (sam)
+#EXTINF:-1 group-title="Sports/Football SIMPLE" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png", FIFA Plus 4 (sam)
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 
