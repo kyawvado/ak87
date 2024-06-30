@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg", Sportstars 3 🇲🇨
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg", Sportstars 3 🇲🇨 - Vpn Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg", Sportstars 4 🇲🇨
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg", Sportstars 4 🇲🇨 - Vpn Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -200,13 +200,13 @@ https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.ism
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", Sportstars 3 (cem)
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", Sportstars 3 (cem) - Vpn Indonesia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", Sportstars 4 (cem)
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", Sportstars 4 (cem) - Vpn Indonesia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -229,6 +229,25 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa59a3d9aef54b58b0301c4f739b8c65:84f5b4481e244e7dbee7cafd9d1a618a
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
+
+
+
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/hBkLCYm/ALMANCA.png", Euro UHD (Germany)
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451728&extension=ts&play_token=2wvOEe2IpV
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/smfwMWz/NG-L-ZCE.png", ITV 1 FHD
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451730&extension=ts&play_token=apKD4ZPNds
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/0BBTHV7/Turkce.png", TRT 1 UHD
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451724&extension=ts&play_token=Rfs2NXGcwa
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/QjjJCgj/ispanyolca.png", Euro FHD (Spain)1
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451740&extension=ts&play_token=5EWzKZxecn
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/QjjJCgj/ispanyolca.png", Euro FHD (Spain)2
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451741&extension=ts&play_token=JsrpKtHqd1
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/47bRQp2/FRANSIZCA.png", TF1 FHD (France)
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451733&extension=ts&play_token=O8yKmUdwG6
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/47bRQp2/FRANSIZCA.png", Bein Sport 1 FHD (France)
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451737&extension=ts&play_token=X7BHCBuXE2
+#EXTINF:-1 group-title="Euro 2024 Simple" tvg-logo="https://i.ibb.co/nL2j59p/TALYANCA.png", Rai 1 FHD (Italy)
+http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451749&extension=ts&play_token=R5qcrSqBcJ
 
 
 
