@@ -61,17 +61,22 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://www.digitaltveurope.com/files/2024/02/Logo_La1UHD_alta.jpg", TV La 1 🇪🇸
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", TV La 1 (Spain)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", TV La 2 🇪🇸
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", TV La 2 (Spain)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://cache3.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
-#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 🇪🇸
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co/QjjJCgj/ispanyolca.png", TV La 1 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co/QjjJCgj/ispanyolca.png", TV La 2 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
@@ -115,6 +120,12 @@ https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.ism
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+
+#EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO (dai)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
+https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
 #EXTINF:-1 group-title="Euro 2024🏆" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO (m7)1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -551,19 +562,31 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/mzDDZdc/dazn1.png", DAZN 1 🇪🇸
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/mzDDZdc/dazn1.png", DAZN 1 (Spain)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/NmHJWdT/dazn2.png", DAZN 2 🇪🇸
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/NmHJWdT/dazn2.png", DAZN 2 (Spain)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/mzDDZdc/dazn1.png", DAZN 1 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/mzDDZdc/dazn1.png", DAZN 2 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/jLx33bM/dazn3.png", DAZN 3 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -575,7 +598,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/QnR3JYY/daznlaliga.png", DAZN LaLiga 🇪🇸
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/QnR3JYY/daznlaliga.png", DAZN LaLiga (Spain)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
