@@ -210,19 +210,19 @@ http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451733&exten
 http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451737&extension=ts&play_token=X7BHCBuXE2
 #EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://i.ibb.co/nL2j59p/TALYANCA.png", Rai 1 FHD (Italy)
 http://magtitan.xyz:8080/play/live.php?mac=00:1A:79:65:2A:7F&stream=451749&extension=ts&play_token=R5qcrSqBcJ
-#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s", COPA AMERICA: WIN SPORTS (Columbia)
+#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s", COPA AMERICA - WIN SPORTS (Columbia)
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s", COPA AMERICA: WIN SPORTS+ (Columbia)
+#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s", COPA AMERICA - WIN SPORTS+ (Columbia)
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 
-#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", COPA AMERICA: V Sport Premium - No Vpn
+#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", COPA AMERICA - V Sport Premium - No Vpn
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://i.ibb.co/LkhJQrR/a1p.png", COPA AMERICA: Arena Sport Premium 1 - Vpn
+#EXTINF:-1 group-title="EURO / COPA Simple" tvg-logo="https://i.ibb.co/LkhJQrR/a1p.png", COPA AMERICA - Arena Sport Premium 1 - Vpn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
@@ -772,6 +772,46 @@ https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
 
 
+#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/D8xFZ3G/tv4fotboll.png", TV4 Football (Sweden) - No Vpn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
+
+#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/MkXKSDd/tv4sportl1.png", TV4 Sport 1 (Sweden)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
+
+#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/8Bs44xG/tv4sportl2.png", TV4 Sport 2 (Sweden)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd
+
+#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/xfx6Zsm/tv4sportl3.png", TV4 Sport 3 (Sweden)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd
+
+#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/j6YkgRr/tv4sportl4.png", TV4 Sport 4 (Sweden)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd
+
 #EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png", Go3 Sport 1 (Lithuania)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -795,6 +835,13 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png", GO3 Sport OPEN (Lithuania)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
 #EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/4JMXNcr/tringsport1.png", Tring Sport 1 (Albania)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
