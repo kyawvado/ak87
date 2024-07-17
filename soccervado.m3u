@@ -581,6 +581,11 @@ https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
+#EXTINF:-1 group-title="ARENA SPORTS⭐" tvg-logo="https://i.ibb.co.com/j500zg4/afight.png", Arena Fight
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+
 
 
 #EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/D8xFZ3G/tv4fotboll.png", TV4 Football (Sweden) - No Vpn
@@ -694,24 +699,6 @@ https://tring.s.llnwi.net/delta/102/out/u/tringSport5105.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=429857d76d3026b160d1c707e98cb6d4:a0c7cc8d78d42082af325149dbdd1aab
 https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
-
-#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/56y8MCX/novasport1.png", Nova Sport 1 (Slovakia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="OTHER OTT SPORTS⭐" tvg-logo="https://i.ibb.co/QQ8zfv4/novasport2.png", Nova Sport 2 (Slovakia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 
 
@@ -884,6 +871,88 @@ https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/mast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
 https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/9c6LmLW/eurosp.png", EUROSPORT HD (ate)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png", EUROSPORT 1 (Germany)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png", EUROSPORT 2 (Germany)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png", EUROSPORT 1 (29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-029/stream.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png", EUROSPORT 2 (30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-030/stream.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png", EUROSPORT 1 (31)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-031/stream.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png", EUROSPORT 2 (32)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-032/stream.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png", EUROSPORT 1 (zap)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png", EUROSPORT 2 (zap)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png", EUROSPORT 1 (Slovakia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png", EUROSPORT 2 (Slovakia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #EXTINF:-1 group-title="MIXED SPORTS✨" tvg-logo="https://kickboksers.nl/wp-content/uploads/2018/07/ZIGGO-SPORT-grey.png", Ziggo Sports Golf
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1092,6 +1161,8 @@ https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_tv_mm.png", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png", 5plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png", MRTV 4
 https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png", Channel 7
