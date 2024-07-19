@@ -1422,127 +1422,171 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo.png", HBO (Singapore)
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo.png", HBO (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-hits.png", HBO Hits (Singapore)
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-hits.png", HBO Hits (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-family.png", HBO Family (Singapore)
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-family.png", HBO Family (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-signature.png", HBO Signature (Singapore)
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-signature.png", HBO Signature (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-cinemax.png", Cinemax (Singapore)
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-cinemax.png", CINEMAX (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png", BBC EARTH 🇬🇧
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89db0b85372a4c4d991e1dab0578f8ff:d9c57bcfbd5387f67903be06ecf3b8d9
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluebbcearthro/Manifest.mpd
-
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png", HISTORIA 🇺🇸 🇪🇸 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
-https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
-
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/xMG3PG5/viasathistory.png", HISTORY (Viasat) 🇬🇧 🇷🇴
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png", ROCK ACTION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77ae1f0a892748298af0403d43b5c389:2e1dd7778fb78ce1d508efe948ca66fd
-https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasathistoryro/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png", NATGEO 🇺🇸
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/ZJgCm90/rockent.png", ROCK ENTERTAINMENT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png", NATGEO 🇺🇸 🇸🇰
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/r2WTxWH/axnmov.png", AXN MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/gyvGPjT/syfy.png", SYFY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/dMSt5xX/xtrm.png", XTRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=563e6e1367e0c8c0f6643cf0ae92c4e7:7a84ece91b690c5b717eeffd58a55b04
+https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/9VcTFW4/crackle.png", CRACKLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/8D5xp09/sonykal.png", SONY KAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png", BOLLYWOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU", MOVIE SPHERE UK
+http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/MGpRSMj/gravitasmovies.png", GRAVITAS MOVIES
+https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/KVh2kfQ/ion.png", ION MOVIES
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/LnJSkjh/ionplus.png", ION PLUS MOVIES
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/2FGJLGg/abckids.png", ABC KIDS
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png", LOVE NATURE 4K FHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png", LOVE NATURE 4K UHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/tpLZdK6/animalplanet.png", ANIMAL PLANET
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 🇺🇸
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE 🇺🇸
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png", DISCOVERY TURBO 🇺🇸
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/0GrGjbk/investdisco.png", INVESTIGATION DISCOVERY 🇬🇧
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/QnSvkmt/nasa.png", NASA 🇺🇸
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png", REAL WILD 🇬🇧
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/jZ2NVqN/outdoorch.png", OUTDOOR CHANNEL
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/FY4pj9S/curiosity.png", CURIOSITY
+https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/DYsDT6K/natgeo.png", NAT GEO (Czech)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://cors-proxy.pulsesoftware.com/https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/SDSQw3v/skycrime.png", SKY CRIME 🇬🇧
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/pnyMJjF/natgeowild.png", NAT GEO WILD (Czech)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png", HISTORIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00035075b9471324ef3ef367f4e2f3e2:9623d9591c52f58bf18c0177ec58dc0b
-https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycrime)/manifest_720.mpd
+#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
+https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/WVkyG6h/skydoc.png", SKY DOCUMENTARIES 🇬🇧
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/nnf5htr/discoch.png", DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000982cf8912bd8ddf796408697814f1:89c358c16b2f7cff5f32f50cc6cc953b
-http://linear406-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skydocumentaries)/manifest_720.mpd
+#KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
+https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/wc5rDz5/skynatur.png", SKY NATURE 🇬🇧
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/gj5J7vb/discoasia.png", DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009c883ff32cd7c98dc3d0f877796ad:54c6344af4a6b4f9d7792eae169ab638
-https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skynature)/manifest_720.mpd
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png", HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbofamily.png", HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbosignature.png", HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hboXtreme.png", HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbomundi.png", HBO Mundi
-http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png", Cinemax
-http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png", Love Nature 4k FHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png", Love Nature 4k UHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png", Net Geo Wild
-https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png", Animal Planet
-https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png", Action Movie
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png", Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", Sony PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU", Movies Sphere UK
-http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 🇺🇸
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE 🇺🇸
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png", DISCOVERY TURBO 🇺🇸
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/r48XxcW/historyandwarfare.png", History & Warfare Now 🇬🇧
-https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/0GrGjbk/investdisco.png", INVESTIGATION DISCOVERY 🇬🇧
-https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/8bC9QZF/inwild.png", INWILD 🇬🇧
-https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/QnSvkmt/nasa.png", NASA 🇺🇸
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png", REAL WILD 🇬🇧
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & DOCUMENTARY✨" tvg-logo="https://i.ibb.co/7yMVRQG/samsgwildlife.png", Samsung Wild Life 🇬🇧
-https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png", BBC EARTH (Viasat)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89db0b85372a4c4d991e1dab0578f8ff:d9c57bcfbd5387f67903be06ecf3b8d9
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluebbcearthro/Manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/NKz5ydJ/viasatnature.png", NATURE (Viasat)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f21f3b180664724be222c27aa3c7d12:22238c408bf58bc6b9ac5457e2f65043
+https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co/xMG3PG5/viasathistory.png", HISTORY (Viasat)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77ae1f0a892748298af0403d43b5c389:2e1dd7778fb78ce1d508efe948ca66fd
+https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasathistoryro/Manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.ibb.co.com/8XrPwZG/viasatexplore.png", EXPLORE (Viasat)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56bbf898924f44908f8b4b10a751f854:cd88b9e1ac8b9ae4efb9cb41966c1699
+https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatexplorero/Manifest.mpd
 
 
 
